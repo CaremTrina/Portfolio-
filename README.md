@@ -1,2 +1,5 @@
-# Portfolio-
-A personal portfolio website built with Vue.js that showcases my profile, academic journey, and technical skills as a BS Computer Engineering student. This site includes sections for contact information, creative works, and project showcases, and is designed to be simple, responsive, and professional.
+# Vue 3 + TypeScript + Vite
+
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
